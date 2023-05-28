@@ -9,4 +9,7 @@ export default defineConfig({
       allow: [".."],
     },
   },
+  preview: {
+    port: 5000,
+  },
 });
